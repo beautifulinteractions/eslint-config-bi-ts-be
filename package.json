@@ -1,5 +1,5 @@
 {
-  "name": "bi-eslint-ts-be",
+  "name": "eslint-config-bi-ts-be",
   "description": "Beautiful Interactions' backend ESLint config with TypeScript support",
   "license": "MIT",
   "author": "Jacopo Scazzosi <jacopo@beautifulinteractions.com> (https://beautifulinteractions.com)",
@@ -15,7 +15,7 @@
   "main": "index.js",
   "dependencies": {
     "@typescript-eslint/parser": "^4.0.1",
-    "bi-eslint-es-be": "beautifulinteractions/bi-eslint-es-be"
+    "eslint-config-bi-es-be": "beautifulinteractions/eslint-config-bi-es-be"
   },
   "peerDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.0.1"
