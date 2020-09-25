@@ -1,0 +1,36 @@
+{
+  "name": "bi-eslint-ts-be",
+  "description": "Beautiful Interactions' backend ESLint config with TypeScript support",
+  "license": "MIT",
+  "author": "Jacopo Scazzosi <jacopo@beautifulinteractions.com> (https://beautifulinteractions.com)",
+  "homepage": "https://github.com/beautifulinteractions/bi-eslint-ts-be",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/beautifulinteractions/bi-eslint-ts-be.git"
+  },
+  "bugs": {
+    "url": "https://github.com/beautifulinteractions/bi-eslint-ts-be/issues"
+  },
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "@typescript-eslint/parser": "^4.0.1",
+    "bi-eslint-es-be": "beautifulinteractions/bi-eslint-es-be"
+  },
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.0.1"
+  },
+  "keywords": [
+    "airbnb",
+    "config",
+    "es2015",
+    "es2016",
+    "es2017",
+    "es2018",
+    "eslint",
+    "eslintconfig",
+    "javascript",
+    "styleguide",
+    "typescript"
+  ]
+}
