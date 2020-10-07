@@ -15,7 +15,7 @@
   "main": "index.js",
   "dependencies": {
     "@typescript-eslint/parser": "^4.0.1",
-    "eslint-config-bi-es-be": "beautifulinteractions/eslint-config-bi-es-be"
+    "eslint-config-bi-es-be": "beautifulinteractions/eslint-config-bi-es-be#2bd603f32805909ecc2dee3c588bb8f73ff138b2"
   },
   "peerDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.0.1"
